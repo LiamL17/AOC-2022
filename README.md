@@ -11,4 +11,4 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 
 |Day| Language | Solution |
 |---|----------|----------|
-|1  |Go        | [Counting Calories](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day01)         |
+|1  |Go        | [Counting Calories](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day01/solution.go)         |
