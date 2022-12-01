@@ -5,4 +5,7 @@ This project contains the solutions to the [Advent of Code 2022](https://advento
 Each days' solution will be completed in Kotlin and compiled with Gradle.
 
 ## Making it interesting
-Alongside a Kotlin solution, another language will be used to implement the solution first.
+Alongside a Kotlin solution, another language will be used to implement the solution first. The programming languages chosen are picked randomly from the [PYPL Popularity of Programming Languages](https://pypl.github.io/PYPL.html) list.
+
+## Table of solutions
+
