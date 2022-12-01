@@ -9,3 +9,6 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 
 ## Table of solutions
 
+|Day| Language | Solution |
+|---|----------|----------|
+|1  |Go        | [Counting Calories](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day01)         |
