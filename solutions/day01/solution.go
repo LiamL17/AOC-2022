@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-  readFile, _ := os.Open("day01-big.txt")
+  readFile, _ := os.Open("day01.txt")
 
   fileScanner := bufio.NewScanner(readFile)
   fileScanner.Split(bufio.ScanLines)
