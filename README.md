@@ -14,7 +14,7 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 |1  |Go           | [Counting Calories](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day01/solution.go)         |
 |2  |VBA          | ??? |
 |3  |PHP          | ??? |
-|4  |ASM          | ??? |
+|4  |Kotlin       | ??? |
 |5  |Haskell      | ??? |
 |6  |C#           | ??? |
 |7  |Swift        | ??? |
@@ -33,6 +33,6 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 |20 |Ruby         | ??? |
 |21 |Python       | ??? |
 |22 |Abap         | ??? |
-|23 |GObjective-C | ??? |
+|23 |Objective-C  | ??? |
 |24 |Julia        | ??? |
 |25 |R            | ??? |
