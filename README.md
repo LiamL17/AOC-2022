@@ -13,7 +13,7 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 |---|-------------|----------|
 |1  |Go           | [Counting Calories](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day01/solution.go)         |
 |2  |VBA          | [Rock Paper Scissors](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day02/solution.vb)       |
-|3  |PHP          | ??? |
+|3  |PHP          | [Rucksack Reorganization](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day03/solution.php)  |
 |4  |Kotlin       | ??? |
 |5  |Haskell      | ??? |
 |6  |C#           | ??? |
