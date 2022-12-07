@@ -15,7 +15,7 @@ Alongside a Kotlin solution, another language will be used to implement the solu
 | 2   | VBA          | [Rock Paper Scissors](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day02/solution.vb)      |
 | 3   | PHP          | [Rucksack Reorganization](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day03/solution.php) |
 | 4   | Haskell      | [Camp Cleanup](https://github.com/LiamL17/AOC-2022/tree/master/src/main/kotlin/day04-camp_cleanup.kt)   |
-| 5   | Kotlin       | [TSupply Stacks](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day05/solution.kt)           |
+| 5   | Kotlin       | [Supply Stacks](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day05/solution.kt)           |
 | 6   | C#           | [Tuning Trouble](https://github.com/LiamL17/AOC-2022/tree/master/solutions/day06/solution.cs)           |
 | 7   | Swift        | ???                                                                                                     |
 | 8   | TypeScript   | ???                                                                                                     |
