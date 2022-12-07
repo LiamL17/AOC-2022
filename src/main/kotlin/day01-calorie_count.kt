@@ -4,7 +4,7 @@ import java.io.FileReader
 import java.io.IOException
 
 fun main(args: Array<String>) {
-    val file = File("input/day01-big.txt")
+    val file = File("input/day01.txt")
     try {
         BufferedReader(FileReader(file)).use { br ->
             var line: String?
